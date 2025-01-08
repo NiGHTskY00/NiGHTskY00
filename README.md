@@ -1,34 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rushi Birewar</h1>
-<h3 align="center">Exploring Data Science and Analytics</h3>
+<h1 align="center">Hello, I'm Rushi Birewar 👋</h1>
+<h3 align="center">Exploring the world of Data Science, Analytics, and Engineering</h3>
 
-<img align="right" alt="Data Science" width="400" src="https://img.freepik.com/free-vector/data-scientist-concept-illustration_114360-906.jpg?w=740&t=st=1693801002~exp=1693801602~hmac=7b2d03b9d5873af1a0d5fc6d35b9b9b6d776d7284f5f582fb8c27cd6d4f94a30">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibirewar&label=Profile%20views&color=0e75b6&style=flat" alt="rushibirewar" /> </p>
-
-- 🌱 Currently learning and building skills in **data analytics**, **business intelligence**, and **data engineering**.  
-- 🔍 Interested in exploring **data processing**, **visualization**, and scalable systems for actionable insights.  
-- ⚙️ Tools and skills: **Python**, **SQL**, **Power BI**, **Data Cleaning**, and **MySQL**.  
-- 🚀 Open to learning new tools and techniques as I progress in my journey.  
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/illustration-data-analytics_53876-8266.jpg?w=740&t=st=1694032715~exp=1694033315~hmac=f11c2443c86dc8bba34cc7b3a9db1b4b3cbf7280a48606e5a4e72a0af9ebf7d8" />
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushibirewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushi birewar" height="30" width="40" /></a>
+### 🙋‍♂️ About Me
+- 🎓 **Final Year Student** pursuing **B.Tech in Smart Manufacturing** at IIIT Jabalpur.
+- 🌟 Learning and exploring opportunities in **data analytics**, **data engineering**, and **e-commerce**.
+- 🤝 Open to collaborating with like-minded individuals to solve real-world data challenges.
+- ⚡ Outdoor enthusiast who loves playing **volleyball** and **badminton**.
+
+---
+
+### 🌱 Currently Exploring
+- **Big Data Technologies**: PySpark, Apache Kafka, Apache Airflow  
+- **AWS Cloud Services**: S3, RDS, DynamoDB, VPC  
+- **ETL Pipelines**: Building end-to-end data pipelines with cloud services  
+- Architecting scalable and efficient **data systems**  
+
+---
+
+### 💡 What I Do
+- 💻 Work on **data analytics and visualization projects** to uncover actionable insights.
+- 📊 Develop **interactive dashboards** using Power BI and MySQL for decision-making.
+- 🛠️ Process, clean, and transform datasets for practical applications in analytics.
+
+---
+
+### 💬 Ask Me About
+- Python 🐍  
+- SQL and Databases  
+- Data Engineering Fundamentals  
+- Business Analytics and Decision Making  
+
+---
+
+### 📫 Let's Connect!
+- 🌐 [Portfolio](https://nightsky00.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rushi-birewar-7438b91b8/)  
+- ✉️ [Email](mailto:rushibirewar@example.com)
+
+---
+
+### 📊 My Projects
+Here’s a glimpse of what you’ll find on my GitHub:  
+- 📈 **Health Analytics Dashboard**: Visualizing OCD patient trends using Power BI and SQL.  
+- 🛒 **Dynamic Sales Dashboard**: E-commerce insights with Python and visualization tools.  
+- 🏬 **Superstore Data Analysis**: Business insights using Python libraries like pandas and matplotlib.  
+- 📊 **Data Visualization with Python**: Creating insightful visualizations using Matplotlib and Seaborn.  
+- 🧠 **Machine Learning Models**: Implementing predictive models with Scikit-Learn.  
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiGHTskY00&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushibirewar&" alt="rushibirewar" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiGHTskY00&theme=radical" alt="GitHub Streak" />
+</p>
 
