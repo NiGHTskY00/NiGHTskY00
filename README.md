@@ -9,8 +9,8 @@
 - 💬 I want to collaborate with like-minded individuals and discuss emerging technologies.
 - 🤘 You can find various data science and data analysis projects on my profile.
 - 📫 Here is my portfolio: [My Personal Portfolio](https://nightsky00.github.io/)
-- 💬 Ask me about Python, Data Engineering, and Business Analysis.
-- ⚡ I love to play outdoor games like volleyball and badminton.
+- 💬 Ask me about Python, Data Engineering, Data analytics and Business Analytics.
+- ⚡ I love to play outdoor games like volleyball and football.
 
 ### 🌱 Ongoing Learning
 - **Big Data Technologies**: Learning about frameworks like PySpark and tools such as Apache Kafka and Airflow.
